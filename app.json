@@ -32,10 +32,10 @@
       }
     ]
   },
-  "source": "https://github.com/sanderjacobsen/com.aquacell.waterontharder",
-  "homepage": "https://github.com/sanderjacobsen/com.aquacell.waterontharder",
+  "source": "https://github.com/sanderjacobsen/aquacell",
+  "homepage": "https://github.com/sanderjacobsen/aquacell",
   "bugs": {
-    "url": "https://github.com/sanderjacobsen/com.aquacell.waterontharder/issues"
+    "url": "https://github.com/sanderjacobsen/aquacell/issues"
   },
   "support": "https://community.homey.app/t/app-pro-aquacell-water-softener/157046",
   "drivers": [
